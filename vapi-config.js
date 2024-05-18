@@ -11,7 +11,7 @@ const assistant = {
     },
     firstMessage: "Hi, I am Vapi how can I assist you today?",
 };
-const apiKey = "<your_public_api_key>"; // Substitute with your Public key from Vapi Dashboard.
+const apiKey = "28bfd3a4-d8d3-4921-9c60-a93443c355ed"; // Substitute with your Public key from Vapi Dashboard.
 const buttonConfig = {
     position: "bottom-right", // "bottom" | "top" | "left" | "right" | "top-right" | "top-left" | "bottom-left" | "bottom-right"
     offset: "40px", // decide how far the button should be from the edge
